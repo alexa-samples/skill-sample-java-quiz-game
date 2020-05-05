@@ -33,7 +33,11 @@
       }
     },
     "apis": {
-      "custom": {}
+      "custom": {
+        "endpoint": {
+          "sourceDir": "lambda/custom"
+        }
+      }
     },
     "manifestVersion": "1.0"
   }
